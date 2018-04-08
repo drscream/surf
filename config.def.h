@@ -207,6 +207,6 @@ static Button buttons[] = {
 
 static SearchEngine searchengines[] = {
 	{ "g",   "https://www.google.com/search?q=%s" },
-	{ "d",   "https://www.duckduckgo.com/search?q=%s" },
+	{ "d",   "https://www.duckduckgo.com/?q=%s" },
 	{ "leo", "https://dict.leo.org/ende?search=%s" },
 };
